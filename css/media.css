@@ -1,0 +1,297 @@
+@media(max-width: 1500px){
+.contact img {
+    height: 648px;
+    object-fit: cover;
+    object-position: center;
+}
+}
+
+
+@media(max-width: 1200px){
+header .container {
+    width: 992px;
+}
+.banner_sec .container .content h1 {
+    font-size: 100px;
+}
+.banner_sec .arrow {
+    bottom: 52px;
+}
+.about .container {
+    width: 992px;
+}
+.feature .container {
+    width: 992px;
+}
+.gallery .container {
+    width: 992px;
+}
+footer .container {
+    width: 992px;
+}
+}
+
+
+
+
+
+@media(max-width: 1100px){
+header .container {
+    width: 756px;
+}
+.logo a img {
+    width: 85%;
+}
+nav ul li a {
+    padding: 7px 20px;
+    font-size: 13px;
+}
+.banner_sec .container {
+    width: 515px;
+}
+.banner_sec .container .content h1 {
+    font-size: 80px;
+}
+.banner_sec .container .content p {
+    font-size: 17px;
+}
+.banner_sec .container .content .banner_btn {
+    padding: 12px 25px;
+    margin: 29px 0px;
+}
+.about .container {
+    width: 756px;
+}
+.about .container h1 {
+    font-size: 32px;
+    padding: 20px 0px;
+}
+.about .container p {
+    font-size: 17px;
+    padding-bottom: 75px;
+    line-height: 1.5;
+}
+.feature .container {
+    width: 756px;
+}
+.feature .container .content .col h2 {
+    font-size: 19px;
+}
+.gallery .container {
+    width: 756px;
+}
+.heading h1 {
+    font-size: 36px;
+}
+.gallery .container .content .col {
+    width: 50%;
+}
+.contact_form h1 {
+    font-size: 36px;
+}
+form input[type="text"] {
+    padding: 15px;
+    margin-bottom: 15px;
+}
+form input[type="email"] {
+	padding: 15px;
+    margin-bottom: 15px;
+}
+form textarea {
+	padding: 15px;
+    margin-bottom: 15px;
+}
+.contact img {
+    height: 550px;
+}
+.contact .container {
+    width: 500px;
+}
+footer .container {
+    width: 756px;
+}
+.social ul li {
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+}
+}
+
+
+
+@media(max-width: 800px){
+
+header .container {
+    width: 576px;
+}
+nav ul li a {
+    padding: 7px 10px;
+}
+.banner_sec .container .content h1 {
+    font-size: 60px;
+}
+.banner_sec .container .content p {
+    font-size: 15px;
+}
+.banner_sec .container .content span {
+    margin: 25px 0px;
+}
+.banner_sec .container .content .banner_btn {
+    padding: 10px 19px;
+    margin: 24px 0px;
+}
+.banner_sec .arrow {
+    bottom: 17px;
+}
+.about .container {
+    width: 576px;
+}
+.about .container h1 {
+    font-size: 30px;
+}
+.about .container p {
+    font-size: 16px;
+    padding-bottom: 50px;
+}
+.feature .container {
+    width: 576px;
+}
+.feature .container .content {
+    width: 50%;
+}
+.gallery .container {
+    width: 576px;
+}
+.gallery .container .content .col {
+    padding: 10px;
+}
+.heading h1 {
+    font-size: 30px;
+}
+.gallery .container .content {
+    padding-bottom: 70px;
+}
+.contact_form h1 {
+    font-size: 30px;
+    padding: 13px 0px;
+}
+.contact_form p {
+    font-size: 14px;
+    padding-bottom: 40px;
+}
+form input[type="text"] {
+    padding: 12px;
+    margin-bottom: 12px;
+    font-size: 12px;
+}
+form input[type="email"] {
+    padding: 12px;
+    margin-bottom: 12px;
+    font-size: 12px;
+}
+form textarea {
+    padding: 12px;
+    margin-bottom: 12px;
+    font-size: 12px;
+}
+form input[type="submit"] {
+    padding: 10px 30px;
+}
+.contact .container {
+    width: 460px;
+}
+.contact img {
+    height: 460px;
+}
+footer .container {
+    width: 576px;
+}
+}
+
+
+
+
+
+@media(max-width: 600px){
+header .container {
+    width: 400px;
+}
+nav ul li a {
+    padding: 7px 6px;
+    font-size: 12px;
+}
+header .container .content {
+    padding: 20px 0px;
+}
+.banner_sec .container {
+    width: 430px;
+}
+.banner_sec .container .content h1 {
+    font-size: 50px;
+}
+.banner_sec .arrow {
+    bottom: 6px;
+}
+.about .container {
+    width: 400px;
+}
+.feature .container {
+    width: 400px;
+}
+.feature .container .content {
+    width: 100%;
+}
+.gallery .container {
+    width: 400px;
+}
+.gallery .container .content .col {
+    width: 100%;
+    padding: 20px 30px;
+}
+
+footer .container {
+    width: 400px;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
